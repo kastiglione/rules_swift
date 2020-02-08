@@ -217,7 +217,6 @@ def compile_action_configs():
                 ),
             ],
             not_features = [
-                SWIFT_FEATURE_OPT,
                 SWIFT_FEATURE_CACHEABLE_SWIFTMODULES,
             ],
         ),
